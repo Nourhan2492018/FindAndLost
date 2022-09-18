@@ -1,0 +1,233 @@
+{
+  "predictions": [
+    {
+      "description": "Zamalek, Egypt",
+      "matched_substrings": [
+        {
+          "length": 7,
+          "offset": 0
+        }
+      ],
+      "place_id": "ChIJJYLZWeBAWBQRXCGLLlhvy5E",
+      "reference": "ChIJJYLZWeBAWBQRXCGLLlhvy5E",
+      "structured_formatting": {
+        "main_text": "Zamalek",
+        "main_text_matched_substrings": [
+          {
+            "length": 7,
+            "offset": 0
+          }
+        ],
+        "secondary_text": "Egypt"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Zamalek"
+        },
+        {
+          "offset": 9,
+          "value": "Egypt"
+        }
+      ],
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political",
+        "geocode"
+      ]
+    },
+    {
+      "description": "Zamalek Cinema, Shagaret Al Dor, Abu Al Feda, Zamalek, Egypt",
+      "matched_substrings": [
+        {
+          "length": 7,
+          "offset": 0
+        }
+      ],
+      "place_id": "ChIJq2_lr-FAWBQR7PTQQxeXM-E",
+      "reference": "ChIJq2_lr-FAWBQR7PTQQxeXM-E",
+      "structured_formatting": {
+        "main_text": "Zamalek Cinema",
+        "main_text_matched_substrings": [
+          {
+            "length": 7,
+            "offset": 0
+          }
+        ],
+        "secondary_text": "Shagaret Al Dor, Abu Al Feda, Zamalek, Egypt"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Zamalek Cinema"
+        },
+        {
+          "offset": 16,
+          "value": "Shagaret Al Dor"
+        },
+        {
+          "offset": 33,
+          "value": "Abu Al Feda"
+        },
+        {
+          "offset": 46,
+          "value": "Zamalek"
+        },
+        {
+          "offset": 55,
+          "value": "Egypt"
+        }
+      ],
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "description": "Zamalek Sporting Club, Gazirat Met Okba, Gazirat Mit Oqbah, El Omraniya, Egypt",
+      "matched_substrings": [
+        {
+          "length": 7,
+          "offset": 0
+        }
+      ],
+      "place_id": "ChIJE3YLJj1BWBQR_gDjE7oXofI",
+      "reference": "ChIJE3YLJj1BWBQR_gDjE7oXofI",
+      "structured_formatting": {
+        "main_text": "Zamalek Sporting Club",
+        "main_text_matched_substrings": [
+          {
+            "length": 7,
+            "offset": 0
+          }
+        ],
+        "secondary_text": "Gazirat Met Okba, Gazirat Mit Oqbah, El Omraniya, Egypt"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Zamalek Sporting Club"
+        },
+        {
+          "offset": 23,
+          "value": "Gazirat Met Okba"
+        },
+        {
+          "offset": 41,
+          "value": "Gazirat Mit Oqbah"
+        },
+        {
+          "offset": 60,
+          "value": "El Omraniya"
+        },
+        {
+          "offset": 73,
+          "value": "Egypt"
+        }
+      ],
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "description": "Zamalek Kornesh, Kamal Al Tawil, Mohammed Mazhar, Zamalek, Egypt",
+      "matched_substrings": [
+        {
+          "length": 7,
+          "offset": 0
+        }
+      ],
+      "place_id": "ChIJN4CfduhBWBQR1iBUpmit2EY",
+      "reference": "ChIJN4CfduhBWBQR1iBUpmit2EY",
+      "structured_formatting": {
+        "main_text": "Zamalek Kornesh",
+        "main_text_matched_substrings": [
+          {
+            "length": 7,
+            "offset": 0
+          }
+        ],
+        "secondary_text": "Kamal Al Tawil, Mohammed Mazhar, Zamalek, Egypt"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Zamalek Kornesh"
+        },
+        {
+          "offset": 17,
+          "value": "Kamal Al Tawil"
+        },
+        {
+          "offset": 33,
+          "value": "Mohammed Mazhar"
+        },
+        {
+          "offset": 50,
+          "value": "Zamalek"
+        },
+        {
+          "offset": 59,
+          "value": "Egypt"
+        }
+      ],
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "description": "Zamalek Theater, 26 July Street, Mohammed Mazhar, Zamalek, Egypt",
+      "matched_substrings": [
+        {
+          "length": 7,
+          "offset": 0
+        }
+      ],
+      "place_id": "ChIJDwMnMpBBWBQRXEhoIPjIRiE",
+      "reference": "ChIJDwMnMpBBWBQRXEhoIPjIRiE",
+      "structured_formatting": {
+        "main_text": "Zamalek Theater",
+        "main_text_matched_substrings": [
+          {
+            "length": 7,
+            "offset": 0
+          }
+        ],
+        "secondary_text": "26 July Street, Mohammed Mazhar, Zamalek, Egypt"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Zamalek Theater"
+        },
+        {
+          "offset": 17,
+          "value": "26 July Street"
+        },
+        {
+          "offset": 33,
+          "value": "Mohammed Mazhar"
+        },
+        {
+          "offset": 50,
+          "value": "Zamalek"
+        },
+        {
+          "offset": 59,
+          "value": "Egypt"
+        }
+      ],
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}
+

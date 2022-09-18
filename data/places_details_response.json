@@ -1,0 +1,22 @@
+{
+  "html_attributions": [],
+  "result": {
+    "geometry": {
+      "location": {
+        "lat": 30.0609422,
+        "lng": 31.219709
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.07325351248784,
+          "lng": 31.22846601339452
+        },
+        "southwest": {
+          "lat": 30.03848604673685,
+          "lng": 31.21507636092987
+        }
+      }
+    }
+  },
+  "status": "OK"
+}
