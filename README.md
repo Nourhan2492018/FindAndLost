@@ -14,7 +14,7 @@ a specific location.
 ## ⚙ Features
 
 - [1] You can login/Register as User 
-- [2] You can Login/Register use External Logins (Auth)
+- [2] You can Login/Register (Auth)
 - [3] User can See All Post 
 - [4] User can fliter Posts to certain criteria (Location , Type , and so....)
 - [5] User Can Add/Remove/Update Posts 
