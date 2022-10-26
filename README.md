@@ -43,9 +43,9 @@ a specific location.
  * Android studio To Run the APP
 ## 🛠 How To Run 
 
- >when  Run The Application
-  > user must be Authentication (login or register)
-  > then user can upload found thing , srearch with lost thing and and so on...
+ >  Run The Application
+  > install android studio <br />
+  > flutter sdk
 
 ## ⚡ Technologies and Libraries 
 * Firebase Auth 
